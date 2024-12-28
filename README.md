@@ -69,4 +69,10 @@
 🌟Try not to miss a day,except any emergencies.
 
 🌟Making note of every error and analysing it.
+## Daily things done:
+🌟Updating my readme after solving problem every day.
+
+🌟Providing links of hackerrank coding space.
+## Author:
+ishrathtahaseen@gmail.com
 
