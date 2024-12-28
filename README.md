@@ -1,8 +1,10 @@
 ![Screenshot 2024-12-28 224502](https://github.com/user-attachments/assets/feb6eb3a-bf4f-4f71-968e-a77a409c9c0e)
 ![Screenshot 2024-12-28 224527](https://github.com/user-attachments/assets/17872eff-6317-453e-9f84-dfa08af00b30)
 # 30 DAYS ON PYTHON
-⭐ starting a new challenge 30 daysofcode with python, solving different types of problems related to python on hackerrank
+⭐ starting a new challenge 30 daysofcode with python, solving different types of problems related to python on hackerrank.
+
 ⭐ objectives:
+   basic concepts of python.
 ## TABLE OF CONTENTS:
 ➡️ DAY-0:https://www.hackerrank.com/challenges/30-hello-world?isFullScreen=true
 ➡️ DAY-1:https://www.hackerrank.com/challenges/30-data-types?isFullScreen=true
@@ -35,7 +37,7 @@
 ➡️ DAY-28:
 ➡️ DAY-29:
 ##  GOALS TO BE ACHIEVED🏆🏆🏆:
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 🌟Try not to miss a day,except any emergencies.
+
 🌟Making note of every error and analysing it.
 
