@@ -18,7 +18,7 @@
 
 ➡️ DAY-5:https://www.hackerrank.com/challenges/30-loops?isFullScreen=true
 
-➡️ DAY-6:
+➡️ DAY-6:https://www.hackerrank.com/challenges/30-review-loop?isFullScreen=true
 
 ➡️ DAY-7:
 
