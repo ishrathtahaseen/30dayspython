@@ -20,7 +20,7 @@
 
 ➡️ DAY-6:https://www.hackerrank.com/challenges/30-review-loop?isFullScreen=true
 
-➡️ DAY-7:
+➡️ DAY-7:https://www.hackerrank.com/challenges/30-arrays?isFullScreen=true
 
 ➡️ DAY-8:
 
