@@ -74,7 +74,7 @@
 
 🌟Providing links of hackerrank coding space.
 
-![Screenshot 2024-12-29 231828](https://github.com/user-attachments/assets/a11509b8-fa35-4a81-9f99-26c5f1dafd0b)
+![Screenshot 2024-12-30 223302](https://github.com/user-attachments/assets/1ac2b954-d6f3-43f1-bc6c-27817c8e0e5b)
 
 ## Author👩‍💻🖊️:
 ishrathtahaseen@gmail.com
