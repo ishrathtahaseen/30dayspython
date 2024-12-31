@@ -22,7 +22,7 @@
 
 ➡️ DAY-7:https://www.hackerrank.com/challenges/30-arrays?isFullScreen=true
 
-➡️ DAY-8:
+➡️ DAY-8:https://www.hackerrank.com/challenges/30-dictionaries-and-maps?isFullScreen=true
 
 ➡️ DAY-9:
 
